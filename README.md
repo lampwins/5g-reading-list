@@ -46,3 +46,10 @@
 - [NFV enabling network slicing for 5G](https://ieeexplore.ieee.org/document/7899415)
 - [Policy based virtualised security architecture for SDN/NFV enabled 5G access networks](https://ieeexplore.ieee.org/document/7919474)
 
+
+
+
+
+Privacy Attacks to the 4G and 5G Cellular Paging Protocols Using Side Channel Information.
+ Protecting the 4G and 5G cellular paging protocols against security and privacy attacks 
+http://homepage.divms.uiowa.edu/~comarhaider/ 
