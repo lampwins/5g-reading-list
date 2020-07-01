@@ -2,6 +2,8 @@
 
 ## General
 
+- **2018** [Towards a 5G Security Architecture: Articulating Software-Defined Security and Security as a Service](https://dl.acm.org/doi/pdf/10.1145/3230833.3233251)
+
 - [A Survey of 5G Network: Architecture and Emerging Technologies](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7169508)
 - [A Survey on 5G Networks for the Internet of Things: Communication Technologies and Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8141874)
 - [Open Programmable Secure 5G (OPS-5G) (DARPA Grant)](https://beta.sam.gov/api/prod/opps/v3/opportunities/resources/files/9e80fb2d56584044b5cc3cfd6e36644d/download?api_key=null&status=archived&token=)
@@ -20,6 +22,12 @@
 
 
 ### Slicing
+
+- **2020** [Network Slicing Automation: Challenges and Benefits](https://research.chalmers.se/publication/516409/file/516409_Fulltext.pdf)
+- **2020** [Dynamic Network Slicing: Challenges and Opportunities](https://link.springer.com/content/pdf/10.1007%2F978-3-030-49190-1_5.pdf)
+- **2020** [5G Network Slicing: A Security Overview](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9099823)
+- **2019** [Serving up secure IoT with network slicing security](https://www.ericsson.com/en/blog/2019/9/future-network-slicing-security-iot)
+- **2019** [Network slicing security: Challenges and directions](https://onlinelibrary.wiley.com/doi/pdf/10.1002/itl2.125)
 
 - [Towards Micro-Segmentation in 5G Network Security](https://www.researchgate.net/profile/Olli_Maemmelae/publication/310447736_Towards_Micro-Segmentation_in_5G_Network_Security/links/582d678b08aef19cb811738b/Towards-Micro-Segmentation-in-5G-Network-Security.pdf)
 - [Economics of 5G Network Slicing: Optimal and Revenue-based allocation of radio and core resources in 5G](https://nms.kcl.ac.uk/toktam.mahmoodi/files/TWC-16.pdf)
@@ -46,10 +54,16 @@
 - [NFV enabling network slicing for 5G](https://ieeexplore.ieee.org/document/7899415)
 - [Policy based virtualised security architecture for SDN/NFV enabled 5G access networks](https://ieeexplore.ieee.org/document/7919474)
 
+## Testing
+
+### Testbed Ideas
+
+- [5G Pagoda](https://5g-pagoda.aalto.fi/)
+
 
 
 
 
 Privacy Attacks to the 4G and 5G Cellular Paging Protocols Using Side Channel Information.
- Protecting the 4G and 5G cellular paging protocols against security and privacy attacks 
-http://homepage.divms.uiowa.edu/~comarhaider/ 
+Protecting the 4G and 5G cellular paging protocols against security and privacy attacks
+http://homepage.divms.uiowa.edu/~comarhaider/
