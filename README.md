@@ -59,6 +59,9 @@
 ### Testbed Ideas
 
 - [5G Pagoda](https://5g-pagoda.aalto.fi/)
+- [Open Baton](https://openbaton.github.io/)
+- [5G Playground](https://www.fokus.fraunhofer.de/go/en/fokus_testbeds/5g_playground)
+- [Open 5G Core](https://www.open5gcore.org/)
 
 
 
