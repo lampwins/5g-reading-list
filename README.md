@@ -50,7 +50,10 @@
 - 2017, IEEE JSAC, [NFV and SDN—Key technology enablers for 5G networks](https://ieeexplore.ieee.org/document/8060513)
 - 2017, ICIN, [SDN & NFV in 5G: Advancements and challenges](https://ieeexplore.ieee.org/document/7899398)
 - 2017, ICIN, [NFV enabling network slicing for 5G](https://ieeexplore.ieee.org/document/7899415)
+- 2017, IEEE Transactions, [Statelet-Based Efficient and Seamless NFV State Transfer](https://ieeexplore.ieee.org/abstract/document/8058500)
 - 2016, NFV-SDN, [Policy based virtualised security architecture for SDN/NFV enabled 5G access networks](https://ieeexplore.ieee.org/document/7919474)
+- 2016, ICNP, [Transparent flow migration for NFV](https://ieeexplore.ieee.org/abstract/document/7784446)
+- 2016, SIGOPS, [U-HAUL: Efficient State Migration in NFV](https://dl.acm.org/doi/abs/10.1145/2967360.2967363)
 
 ## Testing
 
