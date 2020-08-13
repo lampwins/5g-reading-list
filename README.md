@@ -22,11 +22,13 @@
 
 ### Slicing
 
+- 2020, ATC, [Fine-Grained Isolation for Scalable, Dynamic, Multi-tenant Edge Clouds](https://grace-liu.github.io/static/papers/20-ATC-edgeos.pdf)
 - 2020, IEEE Access, [Network Slicing: Recent Advances, Taxonomy, Requirements, and Open Research Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003208)
 - 2020, ONDM, [Network Slicing Automation: Challenges and Benefits](https://research.chalmers.se/publication/516409/file/516409_Fulltext.pdf)
 - 2020, IFIPAICT, [Dynamic Network Slicing: Challenges and Opportunities](https://link.springer.com/content/pdf/10.1007%2F978-3-030-49190-1_5.pdf)
 - 2020, IEEE Access, [5G Network Slicing: A Security Overview](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9099823)
 - 2020, Computer Networks, [5G network slicing using SDN and NFV: A survey of taxonomy, architectures and future challenges](https://www.sciencedirect.com/science/article/pii/S1389128619304773)
+- 2019, 5GTango, [5G Network Slicing in 5GTANGO](https://www.5gtango.eu/blog/36-5g-network-slicing-in-5gtango.html)
 - 2019, Ericsson, [Serving up secure IoT with network slicing security](https://www.ericsson.com/en/blog/2019/9/future-network-slicing-security-iot)
 - 2019, ITL, [Network slicing security: Challenges and directions](https://onlinelibrary.wiley.com/doi/pdf/10.1002/itl2.125)
 - 2019, IEEE Networking Letters, [Optimal Slice Allocation in 5G Core Networks](https://arxiv.org/pdf/1802.04655.pdf)
@@ -39,6 +41,7 @@
 
 ### Zero Trust
 
+- 2020, NIST, [Zero Trust Architecture](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207-draft2.pdf)
 - 2020, CS, [Who Needs Trust for 5G?](https://arxiv.org/pdf/2005.00862.pdf)
 - 2019, USDSB, [Defense Science Board Task Force: Defense Applications of 5G Network Technology](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C41&as_ylo=2019&q=5g+network+zero+trust&btnG=)
 - 2018, IEEE JSAC, [Efficient and Secure Service-oriented Authentication Supporting Network Slicing for 5G-enabled IoT](https://pdfs.semanticscholar.org/11ab/80bff7cb93ed171fd5f47924bc874fd225e2.pdf)
