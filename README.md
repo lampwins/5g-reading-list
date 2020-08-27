@@ -43,6 +43,7 @@
 - 2016, EuCNC, [Towards Micro-Segmentation in 5G Network Security](https://www.researchgate.net/profile/Olli_Maemmelae/publication/310447736_Towards_Micro-Segmentation_in_5G_Network_Security/links/582d678b08aef19cb811738b/Towards-Micro-Segmentation-in-5G-Network-Security.pdf)
 - 2016, TWC, [Economics of 5G Network Slicing: Optimal and Revenue-based allocation of radio and core resources in 5G](https://nms.kcl.ac.uk/toktam.mahmoodi/files/TWC-16.pdf)
 - 2016, ICC, [Network slicing in 5G: an Auction-Based Model](https://nms.kcl.ac.uk/toktam.mahmoodi/files/ICC17-slicing.pdf)
+- 2015, Workshop on Mobility in the Evolving Internet Architecture, [Network Store: Exploring Slicing in Future 5G Networks](http://www.eurecom.fr/en/publication/4641/download/cm-publi-4641.pdf)
 
 
 ### Zero Trust
@@ -64,6 +65,11 @@
 - 2016, NFV-SDN, [Policy based virtualised security architecture for SDN/NFV enabled 5G access networks](https://ieeexplore.ieee.org/document/7919474)
 - 2016, ICNP, [Transparent flow migration for NFV](https://ieeexplore.ieee.org/abstract/document/7784446)
 - 2016, SIGOPS, [U-HAUL: Efficient State Migration in NFV](https://dl.acm.org/doi/abs/10.1145/2967360.2967363)
+
+### IoT
+
+- 2020, Applied Energy, [5G network-based Internet of Things for demand response in smart grid: A survey on application potential](https://huihongxun.github.io/files/Applied_Energy_Review_Paper_5G_and_DR.pdf)
+- 2018, IEEE Communications, [Efficient and Secure Service-oriented Authentication Supporting Network Slicing for 5G-enabled IoT](https://ece.uwaterloo.ca/~j25ni/Papers/JSAC18.pdf)
 
 ## Testing
 
