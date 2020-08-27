@@ -2,6 +2,8 @@
 
 ## General
 
+- 2020, SIGCOMM, [Beyond 5G: Reliable Extreme Mobility Management](https://dl.acm.org/doi/pdf/10.1145/3387514.3405873)
+- 2020, SIGCOMM, [Understanding Operational 5G: A First Measurement Study on Its Coverage, Performance and Energy Consumption](https://dl.acm.org/doi/pdf/10.1145/3387514.3405882)
 - 2020, DARPA, [Open Programmable Secure 5G (OPS-5G) (DARPA Grant)](https://beta.sam.gov/api/prod/opps/v3/opportunities/resources/files/9e80fb2d56584044b5cc3cfd6e36644d/download?api_key=null&status=archived&token=)
 - 2018, ARES, [Towards a 5G Security Architecture: Articulating Software-Defined Security and Security as a Service](https://dl.acm.org/doi/pdf/10.1145/3230833.3233251)
 - 2017, IEEE Access, [A Survey on 5G Networks for the Internet of Things: Communication Technologies and Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8141874)
@@ -14,6 +16,10 @@
 
 - 2018, Cisco, [5G Security Innovation with Cisco](https://www.cisco.com/c/dam/en/us/solutions/collateral/service-provider/service-provider-security-solutions/5g-security-innovation-with-cisco-wp.pdf)
 - 2017, CSCN, [5G security: Analysis of threats and solutions](https://ieeexplore.ieee.org/document/8088621)
+
+### BYOD
+
+- 2020, USENIX Security [Programmable In-Network Security for Context-aware BYOD Policies](https://arxiv.org/pdf/1908.01405.pdf)
 
 ### Pysical
 
@@ -49,6 +55,7 @@
 
 ### SDN & NFV
 
+- 2020, arXiv preprint, [Fault Tolerance for Service Function Chains](https://arxiv.org/pdf/2001.03321.pdf)
 - 2017, IEEE Communication, [The unavoidable convergence of NFV, 5G, and fog: a model-driven approach to bridge cloud and edge](https://ieeexplore.ieee.org/document/8004150)
 - 2017, IEEE JSAC, [NFV and SDN—Key technology enablers for 5G networks](https://ieeexplore.ieee.org/document/8060513)
 - 2017, ICIN, [SDN & NFV in 5G: Advancements and challenges](https://ieeexplore.ieee.org/document/7899398)
@@ -66,6 +73,7 @@
 - [Open Baton](https://openbaton.github.io/)
 - [5G Playground](https://www.fokus.fraunhofer.de/go/en/fokus_testbeds/5g_playground)
 - [Open 5G Core](https://www.open5gcore.org/)
+- [Fabric Testbed](https://fabric-testbed.net/)
 
 
 
