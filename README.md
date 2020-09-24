@@ -56,6 +56,7 @@
 
 ### SDN & NFV
 
+- 2020, NDSS, [SVLAN: Secure & Scalable Network Virtualization](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24162-paper.pdf)
 - 2020, arXiv preprint, [Fault Tolerance for Service Function Chains](https://arxiv.org/pdf/2001.03321.pdf)
 - 2019, IEEE Communications, [MANOaaS: A Multi-Tenant NFV MANO for 5G Network Slices](https://e-archivo.uc3m.es/bitstream/handle/10016/28823/MANOaaS_IEEECM_2019_ps.pdf?sequence=1)
 - 2017, IEEE Communication, [The unavoidable convergence of NFV, 5G, and fog: a model-driven approach to bridge cloud and edge](https://ieeexplore.ieee.org/document/8004150)
